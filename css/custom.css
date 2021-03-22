@@ -32,7 +32,7 @@ footer {
 
 .jumbotron {
 	text-align: center;
-	color: pink;
+	color: #f3c0da;
 	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/cherries.jpg');
 	background-size: cover;
 	margin-bottom: 0;
@@ -52,8 +52,13 @@ footer {
 }
 .btn-lg {
 	font-size: 30px;
-	color: blue;
+	color: #5681EC;
 }
+.btn-lg:hover {
+	color: #f3c0da;
+	text-decoration: underline
+}
+
 .homepage {
 	text-align: center;
 	font-family: 'Comic Neue', cursive;
