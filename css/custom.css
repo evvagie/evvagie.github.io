@@ -33,7 +33,7 @@ footer {
 .jumbotron {
 	text-align: center;
 	color: #f3c0da;
-	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/cherries.jpg');
+	background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../images/cherries.jpg');
 	background-size: cover;
 	margin-bottom: 0;
 }
@@ -114,4 +114,8 @@ footer {
 }
 .btn-lg {
 	font-size: 20px;
+}
+
+.container-homepage {
+	background-color: #f9f0f9; 
 }
